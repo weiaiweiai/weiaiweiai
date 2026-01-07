@@ -1,5 +1,9 @@
-## Hi there 👋
+## 
+Hey~ I'm 唯爱 (I like this ID; its literal English translation is: only love) 🥰
 
+I'm a C# developer, mainly working on WinForm. However, I've also been trying to write some WebAPI and console projects recently.
+
+I'm not good at CSS 🤦‍♂️.
 <!--
 **weiaiweiai/weiaiweiai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
